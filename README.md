@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aahna Adhyaru 👋</h1>
+<h1 align="center">Hello there, I'm Aahna Adhyaru 👋</h1>
 <h3 align="center">FinTech , Fullstack & Data Analytics Enthusiast | BSc IT FinTech Student</h3>
 
 <p align="center">
@@ -47,6 +47,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aahna11&show_icons=true&theme=transparent&hide_border=true" alt="Aahna's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aahna11&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=aahna11&show_icons=true&theme=transparent&hide_border=true" alt="Aahna's GitHub Stats" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=aahna11&theme=transparent&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
